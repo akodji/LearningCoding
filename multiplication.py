@@ -1,5 +1,4 @@
 m=int(input('Enter a number: '))
-l=str(m)
 num=1
 print('MULTIPLICATION TABLE OF', m,'\n----------------------------')
 while m>=0:
